@@ -1,0 +1,23 @@
+# Generated and Build Files
+build/
+app/build/
+.gradle/
+.dart_tool/
+.pub/
+.pub-cache/
+
+# Android Specific
+local.properties
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# IDE Files
+*.iml
+.idea/
+.metadata
+vangti_chai.iml
+
+# Miscellaneous
+*.log
+.DS_Store
